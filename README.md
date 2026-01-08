@@ -45,7 +45,7 @@ Building modern web applications with robust frontends and scalable backends. Pa
 <!--![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) !-->
 
 ---
-
+<!--
 ## 📈 GitHub Stats  
 ![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=default&hide_title=true&hide=issues)
 
@@ -54,7 +54,7 @@ Building modern web applications with robust frontends and scalable backends. Pa
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=default)
 
 ---
-<!--
+
 ## 🏆 Featured Projects  
 
 ### Full-Stack Applications
